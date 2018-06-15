@@ -2,6 +2,7 @@
 clc
 close all
 addpath('functions')
+addpath('ext')
 
 %% Correlation with personal info
 % correlate leptin1 to personal info (both groups together)
