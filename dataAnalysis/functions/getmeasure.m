@@ -57,6 +57,20 @@ switch type
                 Intervention(i-11,sample) = tmp(sample);
             end 
         end
+        
+%     case 'BMI'  
+%         for sample = 1:5
+%             for i=1:11
+%                 tmp = Measurements(i).BMI;
+%                 Control(i,sample) = tmp(sample);
+%             end
+%             for i=12:nParticipants 
+%                 tmp = Measurements(i).BMI;
+%                 Intervention(i-11,sample) = tmp(sample);
+%             end 
+%         end
+
+        
 end
 end
 

@@ -51,4 +51,5 @@ Regression;
 %%not doing it cause there's not enough data
 Classification;
 
-
+%% Mean comparison with subgroups
+EachSubject;
